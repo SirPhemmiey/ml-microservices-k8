@@ -1,6 +1,5 @@
-NAME                            READY   STATUS    RESTARTS   AGE
-pod/project4-6f66c6bd8d-7lvkn   1/1     Running   0          2m20s
+NAME                        READY   STATUS    RESTARTS   AGE
+project4-6f66c6bd8d-2z96b   1/1     Running   0          42s
 Forwarding from 127.0.0.1:8000 -> 80
 Forwarding from [::1]:8000 -> 80
-Handling connection for 8000
 Handling connection for 8000
