@@ -9,7 +9,6 @@ dockerpath="<sirphemmiey/project4>"
 
 # Step 2:  
 # Authenticate & tag
-#docker login -u="sirphemmiey" -p="Algorithm212..." docker.io
 docker login -u="sirphemmiey" docker.io
 docker tag project4 sirphemmiey/project4
 
